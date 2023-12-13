@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 
 <h3 align="center">A passionate software engineer from California</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 - 🌱 I’m currently learning **NoSQL**
 
 - 📫 How to reach me **hung4tran.nguyen@gmail.com**
