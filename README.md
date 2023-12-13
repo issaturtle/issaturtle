@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate software engineer from California</h3>
-<img align="right" alt="Coding" width="400" src"https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
+<img align="right" alt="Coding" width="400" src"https://i.gifer.com/3AyY.gif">
 - 🌱 I’m currently learning **NoSQL**
 
 - 📫 How to reach me **hung4tran.nguyen@gmail.com**
